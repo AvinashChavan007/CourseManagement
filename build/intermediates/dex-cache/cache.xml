@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_c1109f1d38e59eea993c0025c4bbb80f28228507\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_92b62f53fbd1ac170b3fc1e2057b00b8f603ef61\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_cb61ffb8d07242253267b07a4cf5620c03dba19f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2151d76a39b502ae06d45b8d5eb9bbd425ed8609\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_9e8835c7fb671fe731d484e7021b1f9025bb89e8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_510d2f6d76f6fb6862cd1fe5692e96c3fdb4d7c0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c60b111a82019c6dcfb99ad7d5516644c7b8a7d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_a8eee2e41b9c28a4245cd45020e1f5af4d5e98e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_17cb19f4f39d41844ec4183c18a37462f15c3586\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a99ef421c3d8f3552a60e628f87e7b153be4537a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library\1.0.6\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a89762bbbd7f29b4b555f12961653b11d01c8c79">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-1.0.6_e4de746d14754bf49fd7016fc219bac96efdbd19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b633f4c9c92d8137ac8a4a085c9f1a0cecae7107">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7b35a94e1f4c5c66f9f2eac9475a4969de156e22\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9016a0f4a72a20fb60fd43ad9acb39822b0eee45\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_de49b815003e8fa95f35da8fee97dc5825bd3616\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_bac2ddbf0eac3e3bb78d81ac4d7f938addb56732\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d59e74793abacf4985da9001cc29b204c14676a8">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e5633f7f693fdeed7484fc1f190b02e32a858c7c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5f8241aaa0f07491e2669a71211b6c3e079dfa30\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_a3e35caf58a31ef0171fc30edd41b231f0c66d63\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_7f377b0993d1150180f0216fac2be9551b1990e8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_6027e9804263e0bf1c2881c52b666bc0da7f165b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_42491b35b0f53b4f0fdf1ccf8afe6e755b6d9a67\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.nbsp\library\1.09\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0933e84bb6ae46a5d44c01a91231016d785510c6">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.nbsp-library-1.09_b5cd1ccbd62e910e576a5f335b7533b13c8c0ac6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_e6f7018368e987fc0480a773d0b37c887f76b27d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Avinash\Desktop\MaverickSM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_aff6e85c744f28c013dda5b8561a019e8a5c73fc\classes.dex" />
+    </item>
+
+</items>
